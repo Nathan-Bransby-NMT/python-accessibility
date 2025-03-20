@@ -1,3 +1,5 @@
+<img align='center' src="./assets/parl.png" alt="Python Accessibility Community Resource Library" width="100%" height="auto" />
+
 # Python Accessibility Resource Library
 
 <!--img align='right' src="" alt="" width="30%" height="auto"/-->
