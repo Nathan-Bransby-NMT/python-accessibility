@@ -5,24 +5,23 @@
 This repository provides a comprehensive list of accessibility resources for the Python community.
 
 ## Table of Contents
-I. [Assistive Technologies and Tools](#i-assistive-technologies-and-tools)
-  <br> - [Screen Readers and Physical Assistive Devices](#screen-readers-and-physical-assistive-devices) 
-  <br> - [Python-Specific Tools](#python-specific-tools)
+I. [**Assistive Technologies and Tools**](#i-assistive-technologies-and-tools)<br>
+  - [*Screen Readers and Physical Assistive Devices*](#screen-readers-and-physical-assistive-devices)<br>
+  - [*Python-Specific Tools*](#python-specific-tools)
     
-II. [Development Resources](#ii-development-resources)
-  <br> - [Testing and Compliance Tools](#testing-and-compliance-tools)
-  <br> - [Standards and Guidelines](#standards-and-guidelines)
+II. [**Development Resources**](#ii-development-resources)<br>
+  - [*Testing and Compliance Tools*](#testing-and-compliance-tools)<br>
+  - [*Standards and Guidelines*](#standards-and-guidelines)
     
-III. [Inclusive Design](#iii-inclusive-design)
-  <br> - [Neurodiversity Accommodations](#neurodiversity-accommodations)
-  <br> - [Translation and Localization](#translation-and-localization)
-  <br> - [AI-Assisted Tools](#ai-assisted-tools)
+III. [**Inclusive Design**](#iii-inclusive-design)<br>
+  - [*Neurodiversity Accommodations*](#neurodiversity-accommodations)<br>
+  - [*Translation and Localization*](#translation-and-localization)<br>
+  - [*AI-Assisted Tools*](#ai-assisted-tools)
     
-IV. [Community Resources](#iv-community-resources)
-  <br> - [Organizations](#organizations)
-  <br> - [Education and Training](#education-and-training)
-  <br> - [Events and Inclusion](#events-and-inclusion)
-  <br> - [Collaboration](#collaboration)
+IV. [**Community Resources**](#iv-community-resources)<br>
+  - [*Organizations*](#organizations)<br>
+  - [*Education and Training*](#education-and-training)<br>
+  - [*Events and Inclusion*](#events-and-inclusive-accommodations)
 
 ## I. Assistive Technologies and Tools
 
@@ -50,6 +49,11 @@ IV. [Community Resources](#iv-community-resources)
 - #### **[JAWS](https://www.freedomscientific.com/products/software/jaws/) *(Job Access With Speech)***
   The world's most popular commercial screen reader, developed for computer users whose vision loss prevents them from seeing screen content or navigating with a mouse.
   JAWS provides speech and braille output for popular computer applications on Windows.
+
+> [!IMPORTANT]
+> * Requires Windows 11, Windows 10, or Windows Server 2019/2016
+> * Includes drivers for popular Braille displays
+> * Features OCR capabilities for inaccessible PDF documents
   
 > [!NOTE]
 > Unlike NVDA, JAWS is a paid product with several licensing options.:
@@ -57,10 +61,6 @@ IV. [Community Resources](#iv-community-resources)
 > * Home License: $1,200 (perpetual, personal/non-commercial use)
 > * Professional License: $1,625 (perpetual, personal or commercial use)
 
-> [!IMPORTANT]
-> * Requires Windows 11, Windows 10, or Windows Server 2019/2016
-> * Includes drivers for popular Braille displays
-> * Features OCR capabilities for inaccessible PDF documents
 
 ---
   
