@@ -121,6 +121,8 @@ IV. [**Community Resources**](#iv-community-resources)<br>
 
 ### <p align="center">Python-Specific Tools</p>
 
+---
+
 - #### **[pyatspi](https://gitlab.gnome.org/GNOME/pyatspi2) *(Python ATK-SPI Bindings)***
   A Python wrapper for AT-SPI (Assistive Technology Service Provider Interface), providing accessibility features for GUI applications.
   These bindings allow Python applications to interact with assistive technologies like screen readers.
