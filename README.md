@@ -748,8 +748,34 @@ IV. [**Community Resources**](#iv-community-resources)<br>
 
 ---
 
+- #### **[Django Accessibility Guidelines for Talks](https://www.djangoproject.com/accessibility/talk-guidelines/) *(Event Accessibility Resource)***
+  
+  As part of Django's [commitment to accessibility](https://www.djangoproject.com/accessibility/), the DSF has curated a set of accessibility guidelines to encourage speakers at DSF-sponsored events to make their talks as accessible as possible. 
+
+  Although this guidline was developed specifically for DSF-sponsored events, it is a great resource for anyone giving talks, challenging presenters to think about accessibility when presenting and preparing their talks.
+
+---
+
+- **[DjangoCon US Accessibility & Inclusion Checklist](https://djangocon.github.io/djangocon-us-docs/inclusion/checklist/) *(Event Accessibility Resource)***
+
+  A checklist created by the DjangoCon US organisers, that contains steps to ensure that accessibility and inclusion is considered in the planning and execution of DjangoCon events.
+
+  Key features include:
+  - Call for Proposal (CFP) steps and considerations
+  - Venue and hotel accessibility requirements
+  - Event website accesibility
+  - Miscellaneous 'on the day' perspectives & considerations that help create an inclusive event (service animals, mental health, dietary requirements, etc.)
+
+> [!NOTE]
+> * This checklist contains some DjangoCon US specific resources that likely won't be relevant to all public Python events.
+>
+> **For a more customisable (less-specific) version - check out the [`Event Organisers Accessibility Checklist`](./docs/event_org_accessibility_checklist.md). Inspired by the DjangoCon checklist, the checklist contains general event organiser accessibility steps that can be adopted for any event.**
+
+---
+
 - #### **[Technology Guidelines for Inclusive Events](https://eventupplanner.com/digital-accessibility-in-event-planning-common-pitfalls-best-practices/) *(Event Accessibility Resource)***
-  Resources for ensuring digital content at Python community events is accessible, with comprehensive guidelines for before, during, and after events.
+
+  Resources to help event organisers ensure that access, digital content & presentations are accessible and inclusive to the community, with comprehensive guidelines for before, during, and after an event.
   
   Key features include:
   - Screen reader compatibility requirements for event websites
