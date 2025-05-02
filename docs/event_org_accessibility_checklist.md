@@ -5,10 +5,10 @@
 
 ## Call for Proposals (CFP)
 
--[] Reach out to local Python User Groups (PUGs)
--[ ] Contact Universities & Tertiary Education Facilities — encourage first-time presenters and educators the opportunity to present.
--[ ] Engage and provide assistance to tech communities & PUGs that encourage diversity in tech (gender, disability, LGBTQIA+, cultural diversity, socio-economic inclusivity, regional/remote communities, age-barriers, veterans, etc.)
--[ ] Set a minimum accessibility requirement for presentations. (font-size, contrast, descriptive language, etc)
+- [ ] Reach out to local Python User Groups (PUGs)
+- [ ] Contact Universities & Tertiary Education Facilities — encourage first-time presenters and educators the opportunity to present.
+- [ ] Engage and provide assistance to tech communities & PUGs that encourage diversity in tech (gender, disability, LGBTQIA+, cultural diversity, socio-economic inclusivity, regional/remote communities, age-barriers, veterans, etc.)
+- [ ] Set a minimum accessibility requirement for presentations. (font-size, contrast, descriptive language, etc)
 
 
 ## Acknowledgement
