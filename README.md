@@ -748,6 +748,42 @@ IV. [**Community Resources**](#iv-community-resources)<br>
 
 ---
 
+- #### **[Python Community Accessibility & Inclusion Checklist for Event Organisers](https://github.com/Nathan-Bransby-NMT/python-accessibility/blob/main/docs/event_org_accessibility_checklist.md) *(Event Accessibility Resource)***
+
+  A checklist which aims to encorage Python event organises to consider diversity, inclusion and accessibility in every phase of planning and exicuting an event, from organising process all the way to post-event.
+
+  Key processes covered by the checklist:
+  
+    1. Planning Phase
+       - Venue Selection
+       - Communication & Website
+       - Financial Accessibility
+       - Registration Process
+       - Call for Proposals
+         
+    2. Preparation Phase
+       - Accessibility Services
+       - Diversity Initiatives
+       - Code of Coducts
+       - Safety & Risk Management
+         
+    3. During the Event
+       - Registration & Welcome
+       - Presentations & Speakers
+       - Ongoing Support
+         
+    4. Post-Event Considerations
+       - Recordings & Media
+       - Follow-Up
+       - Environmental Condiderations
+
+> [!NOTE]
+> This checklist was inspired by [DjangoCon US Inclusion Checklist](https://djangocon.github.io/djangocon-us-docs/inclusion/checklist/) & [the Less Obvious Checklist](https://lessobvious.cc/).
+>
+> It was developed to allow anyone to use as a template and alter it at their will. 
+
+---
+
 - #### **[Django Accessibility Guidelines for Talks](https://www.djangoproject.com/accessibility/talk-guidelines/) *(Event Accessibility Resource)***
   
   As part of Django's [commitment to accessibility](https://www.djangoproject.com/accessibility/), the DSF has curated a set of accessibility guidelines to encourage speakers at DSF-sponsored events to make their talks as accessible as possible. 
